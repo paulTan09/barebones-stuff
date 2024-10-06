@@ -1,0 +1,22 @@
+body {
+  background-color: #1d2021;
+}
+p {
+  background-color: #cc241d;;
+  color: #fbf1c7;
+}
+h1, h2 {
+  color:#928374;
+}
+
+.recipe {
+  color: #98971a;
+}
+
+.steps {
+  color: #fabd2f;
+}
+
+button {
+  background-color: #d65d0e;
+}

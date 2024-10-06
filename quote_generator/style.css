@@ -1,0 +1,41 @@
+body {
+  background-color: #eff1f5;
+
+}
+
+h1 {
+  color: #4c4f69;
+  font-weight: 800;
+  font-size: 60px;
+  text-align: center;
+}
+.headings {
+  color: #5c5f77;
+  font-weight: 800;
+  font-size: 45px;
+
+}
+
+p {
+  color: #6c6f85;
+  font-weight: 400;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+button {
+  font-size: 30px;
+  background-color: #df8e1d;
+  color: #dce0e8;
+  margin: 50px;
+}
+
+div {
+  text-align: center;
+}
+
+main {
+  color: #6c6f85;
+  font-weight: 400;
+  font-size: 20px;
+}
